@@ -65,8 +65,8 @@
 ### 📊 GitHub 动态统计
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kongzhuww&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongzhuww&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="155" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" height="155" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="155" />
 </div>
 
 <div align="center">
