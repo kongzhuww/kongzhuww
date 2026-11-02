@@ -18,6 +18,18 @@
 
 ---
 
+### tab-project is now on Microsoft Edge Add-ons
+
+A milestone for my open-source work: my browser new-tab workspace is now available on the Microsoft Edge Add-ons store.
+
+Favorite sites, bookmarks, unified search, and optional GitHub, Todoist, Bilibili, and music modules in one theme-adaptive workspace.
+
+[![Install from Edge Add-ons](https://img.shields.io/badge/Microsoft_Edge-Install-0078D4?style=for-the-badge)](https://microsoftedge.microsoft.com/addons/detail/tabproject-%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5/dbkaiojfbolnkpaegflocfbdgpmhjcco)
+
+[Source code](https://github.com/kongzhuww/tab-project) · [Report an issue](https://github.com/kongzhuww/tab-project/issues) · [Release history](https://github.com/kongzhuww/tab-project/releases)
+
+---
+
 ### 💡 About Me
 
 I am a software engineer and hardware enthusiast passionate about bridging **on-device artificial intelligence**, **developer workflows**, and **responsive desktop/browser productivity systems**. 

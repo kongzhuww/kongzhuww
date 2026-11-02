@@ -18,6 +18,18 @@
 
 ---
 
+### tab-project 已上架 Edge 商店
+
+从个人开发的新标签页工作台，到正式上架 Microsoft Edge 加载项商店，这是我开源项目的一个里程碑。
+
+常用网站、书签、聚合搜索，以及按需启用的 GitHub、Todoist、B站与音乐组件，都集中在一个自适应主题的工作台中。
+
+[![从 Edge 商店安装](https://img.shields.io/badge/Microsoft_Edge-Install-0078D4?style=for-the-badge)](https://microsoftedge.microsoft.com/addons/detail/tabproject-%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5/dbkaiojfbolnkpaegflocfbdgpmhjcco)
+
+[项目源码](https://github.com/kongzhuww/tab-project) · [反馈问题](https://github.com/kongzhuww/tab-project/issues) · [更新记录](https://github.com/kongzhuww/tab-project/releases)
+
+---
+
 ### 💡 关于我
 
 热衷于将**端侧人工智能**、**开发者自动化工作流**与**高响应性的桌面与浏览器生产力系统**融为一体。
