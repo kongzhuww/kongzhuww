@@ -10,6 +10,7 @@
 
 <p>
   <a href="https://logicweaver.me/"><img src="https://img.shields.io/badge/Website-logicweaver.me-4F46E5?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://blog.logicweaver.me/"><img src="https://img.shields.io/badge/Blog-blog.logicweaver.me-2563EB?style=flat-square&logo=astro&logoColor=white" alt="Blog"></a>
   <a href="https://github.com/kongzhuww"><img src="https://img.shields.io/github/stars/kongzhuww?style=flat-square&logo=github&color=333" alt="GitHub Stars"></a>
   <a href="https://www.npmjs.com/~kongzhuww"><img src="https://img.shields.io/badge/npm-packages-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm"></a>
 </p>
@@ -52,7 +53,7 @@ I am a software engineer and hardware enthusiast passionate about bridging **on-
 
 #### 🖥️ Workspaces & Productivity
 - **[tab-project](https://github.com/kongzhuww/tab-project)**: All-in-one browser new-tab workspace (Vue 3 + TypeScript + Chromium MV3) featuring bookmark kanban, custom folders, Bilibili radio, and GitHub Topic sync.
-- **[tab-project-website](https://github.com/kongzhuww/tab-project-website)**: Static showcase and privacy review site built on Next.js 16 and Cloudflare Workers for the tab-project ecosystem.
+- **[tab-project-website (logicweaver.me)](https://logicweaver.me)**: Static showcase and privacy review site built on Next.js 16 and Cloudflare Workers for the tab-project ecosystem.
 - **[BrimDeck](https://github.com/kongzhuww/BrimDeck)**: Windows 11 Dynamic Island widget for monitoring AI coding tool quotas, system resources, and media controls.
 - **[CLI-Manager](https://github.com/kongzhuww/CLI-Manager)**: Multi-project AI CLI workspace supporting local terminals, persistent SSH hosts, and mobile-assisted terminal workflows.
 

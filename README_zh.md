@@ -10,6 +10,7 @@
 
 <p>
   <a href="https://logicweaver.me/"><img src="https://img.shields.io/badge/个人网站-logicweaver.me-4F46E5?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://blog.logicweaver.me/"><img src="https://img.shields.io/badge/个人博客-blog.logicweaver.me-2563EB?style=flat-square&logo=astro&logoColor=white" alt="Blog"></a>
   <a href="https://github.com/kongzhuww"><img src="https://img.shields.io/github/stars/kongzhuww?style=flat-square&logo=github&color=333" alt="GitHub Stars"></a>
   <a href="https://www.npmjs.com/~kongzhuww"><img src="https://img.shields.io/badge/npm-packages-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm"></a>
 </p>
@@ -52,7 +53,7 @@
 
 #### 🖥️ 生产力与工作台
 - **[tab-project](https://github.com/kongzhuww/tab-project)**：一站式浏览器新标签页个人工作台（Vue 3 + TypeScript + Chromium MV3），集成常用网站大文件夹、书签看板、多引擎聚合、B站电台与 GitHub Topic 看板。
-- **[tab-project-website](https://github.com/kongzhuww/tab-project-website)**：基于 Next.js 16 与 Cloudflare Workers 部署的静态展示与隐私政策官网。
+- **[tab-project-website (logicweaver.me)](https://logicweaver.me)**：基于 Next.js 16 与 Cloudflare Workers 部署的静态展示与隐私政策官网。
 - **[BrimDeck](https://github.com/kongzhuww/BrimDeck)**：专为 Windows 11 打造的桌面灵动岛，实时跟踪 AI 编程工具配额、系统资源状态与媒体控制。
 - **[CLI-Manager](https://github.com/kongzhuww/CLI-Manager)**：支持本地终端、持久化 SSH 主机与移动端协同的多项目 AI CLI 工作台。
 
