@@ -50,6 +50,7 @@ I am a software engineer and hardware enthusiast passionate about bridging **on-
 
 #### ⚡ Coding Agent Ecosystem (Pi)
 - **[pi-command-aliases](https://github.com/kongzhuww/pi-command-aliases)**: Interactive split-pane visual TUI manager and argument-forwarding suite for Pi extension commands. Published on npm (`pi install npm:pi-command-aliases`) with 600+ monthly downloads.
+- **[pi-remote-mesh](https://github.com/kongzhuww/pi-remote-mesh)**: Multi-device remote SSH execution mesh and on-demand tool exposure for Pi Coding Agent. Published on npm (`npm:pi-remote-mesh`).
 - **[pi-desktop-toast](https://github.com/kongzhuww/pi-desktop-toast)**: Zero-dependency native OS desktop notifications (macOS, Windows WinRT, Linux notify-send) for long-running agent tasks and prompts. Published on npm (`npm:pi-desktop-toast`).
 - **[pi-smart-quota](https://github.com/kongzhuww/pi-smart-quota)**: Smart adaptive quota monitor for OpenAI Codex and Google Antigravity (AGY) with real-time statusline integration. Published on npm (`npm:pi-smart-quota`).
 
