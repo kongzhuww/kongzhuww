@@ -82,12 +82,12 @@
 ### 📊 GitHub 动态统计
 
 <div align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" height="155" />
-  <img src="./profile/top-langs.svg" alt="Top Languages" height="155" />
+  <img src="./profile/stats-zh.svg" alt="GitHub Stats" height="155" />
+  <img src="./profile/top-langs-zh.svg" alt="Top Languages" height="155" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kongzhuww&theme=radical&hide_border=true" alt="GitHub Streak" height="155" />
+  <img src="https://streak-stats.demolab.com?user=kongzhuww&theme=radical&hide_border=true&locale=zh_Hans" alt="GitHub Streak" height="155" />
 </div>
 
 ---
