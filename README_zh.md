@@ -52,8 +52,6 @@
 - **[pi-command-aliases](https://github.com/kongzhuww/pi-command-aliases)**：Pi 编码智能体的可视化双栏 TUI 命令别名管理器与参数透明透传套件，已上架 npm（月下载量 600+）并被 Pi 官方扩展目录收录。
 - **[pi-desktop-toast](https://github.com/kongzhuww/pi-desktop-toast)**：极轻量零依赖的跨平台系统原生桌面通知扩展（macOS / WinRT / Linux），耗时任务跑完或等待确认时主动弹窗提醒。
 - **[pi-smart-quota](https://github.com/kongzhuww/pi-smart-quota)**：专为 OpenAI Codex 与 Google Antigravity (AGY) 设计的智能额度监控插件，常驻状态栏一眼看清余量与重置倒计时。
-- **[@kongzhuww/pi-kongzhu-auto-title](https://github.com/kongzhuww/pi-kongzhu-auto-title)**：首轮无污染后台会话自动起名插件，利用后台模型静默总结标题，不污染对话上下文。
-- **[@kongzhuww/pi-kongzhu-mark](https://github.com/kongzhuww/pi-kongzhu-mark)**：Pi 会话书签与 Herdr 自定义集成。
 
 #### 🖥️ 生产力与工作台
 - **[tab-project](https://github.com/kongzhuww/tab-project)**：一站式浏览器新标签页个人工作台（Vue 3 + TypeScript + Chromium MV3），集成常用网站大文件夹、书签看板、多引擎聚合、B站电台与 GitHub Topic 看板。

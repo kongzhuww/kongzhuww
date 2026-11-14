@@ -52,8 +52,6 @@ I am a software engineer and hardware enthusiast passionate about bridging **on-
 - **[pi-command-aliases](https://github.com/kongzhuww/pi-command-aliases)**: Interactive split-pane visual TUI manager and argument-forwarding suite for Pi extension commands. Published on npm (`pi install npm:pi-command-aliases`) with 600+ monthly downloads.
 - **[pi-desktop-toast](https://github.com/kongzhuww/pi-desktop-toast)**: Zero-dependency native OS desktop notifications (macOS, Windows WinRT, Linux notify-send) for long-running agent tasks and prompts. Published on npm (`npm:pi-desktop-toast`).
 - **[pi-smart-quota](https://github.com/kongzhuww/pi-smart-quota)**: Smart adaptive quota monitor for OpenAI Codex and Google Antigravity (AGY) with real-time statusline integration. Published on npm (`npm:pi-smart-quota`).
-- **[@kongzhuww/pi-kongzhu-auto-title](https://github.com/kongzhuww/pi-kongzhu-auto-title)**: First-turn background session titles for Pi without conversation-context pollution. Published on npm (`npm:@kongzhuww/pi-kongzhu-auto-title`).
-- **[@kongzhuww/pi-kongzhu-mark](https://github.com/kongzhuww/pi-kongzhu-mark)**: Pi session bookmarks with the existing custom Herdr integration. Published on npm (`npm:@kongzhuww/pi-kongzhu-mark`).
 
 #### 🖥️ Workspaces & Productivity
 - **[tab-project](https://github.com/kongzhuww/tab-project)**: All-in-one browser new-tab workspace (Vue 3 + TypeScript + Chromium MV3) featuring bookmark kanban, custom folders, Bilibili radio, and GitHub Topic sync.
