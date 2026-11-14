@@ -49,10 +49,11 @@
 - **[grounding-pi-rejection-lab](https://github.com/kongzhuww/grounding-pi-rejection-lab)**：针对 GroundingPI 目标缺失场景建立的独立研究实验室，提供数据生成、评估指标与评测基线管线。
 
 #### ⚡ 智能体扩展与生态工具 (Pi)
-- **[pi-command-aliases](https://github.com/kongzhuww/pi-command-aliases)**：Pi 编码智能体的可视化双栏 TUI 命令别名管理器与参数透明透传套件，已上架 npm（月下载量 600+）并被 Pi 官方扩展目录收录。
-- **[pi-remote-mesh](https://github.com/kongzhuww/pi-remote-mesh)**：专为 Pi 设计的多端远程 SSH 执行网格与按需工具暴露套件，一行配置调度全家设备，已上架 npm。
-- **[pi-desktop-toast](https://github.com/kongzhuww/pi-desktop-toast)**：极轻量零依赖的跨平台系统原生桌面通知扩展（macOS / WinRT / Linux），耗时任务跑完或等待确认时主动弹窗提醒。
-- **[pi-smart-quota](https://github.com/kongzhuww/pi-smart-quota)**：专为 OpenAI Codex 与 Google Antigravity (AGY) 设计的智能额度监控插件，常驻状态栏一眼看清余量与重置倒计时。
+- **[pi-tools](https://github.com/kongzhuww/pi-tools)**：专为 [Pi Coding Agent](https://github.com/earendil-works/pi-coding-agent) 打造的官方一体化单体大仓库（Monorepo）扩展套件：
+  - **`pi-command-aliases`**：交互式分栏 TUI 命令别名管理器与参数透明透传套件（npm 月下载量 600+）。
+  - **`pi-remote-mesh`**：多端远程 SSH 执行网格与按需工具调度套件，一行配置管全家。
+  - **`pi-desktop-toast`**：极轻量零依赖的跨平台系统原生桌面通知扩展（macOS / WinRT / Linux）。
+  - **`pi-smart-quota`**：专为 OpenAI Codex 与 Google Antigravity (AGY) 设计的智能额度监控插件。
 
 #### 🖥️ 生产力与工作台
 - **[tab-project](https://github.com/kongzhuww/tab-project)**：一站式浏览器新标签页个人工作台（Vue 3 + TypeScript + Chromium MV3），集成常用网站大文件夹、书签看板、多引擎聚合、B站电台与 GitHub Topic 看板。
